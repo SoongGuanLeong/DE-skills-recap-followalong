@@ -1,0 +1,238 @@
+order_id,user_id,order_date,product_id,product_category,product_name,quantity,price_per_unit,payment_method,order_status,Payment_flag
+1006,U017,2025-04-15,P328,Kitchen,Knife Set,4,53.51,Credit Card,Returned,CARD
+1007,U129,2025-04-23,P786,Home Decor,Wall Clock,5,12.71,Credit Card,Returned,CARD
+1008,U102,2025-04-15,P101,Home Decor,Photo Frame,1,46.6,Debit Card,Cancelled,CARD
+1013,U140,2025-05-03,P516,Fashion,Sneakers,5,90.64,Credit Card,Cancelled,CARD
+1014,U112,2025-04-18,P111,Books,Data Engineering 101,1,93.91,Credit Card,Cancelled,CARD
+1025,U042,2025-04-23,P311,Kitchen,Cutting Board,4,16.8,Debit Card,Returned,CARD
+1032,U090,2025-04-11,P895,Kitchen,Cutting Board,2,29.79,Credit Card,Cancelled,CARD
+1035,U150,2025-04-10,P242,Home Decor,Cushion Cover,2,34.04,Credit Card,Cancelled,CARD
+1041,U080,2025-04-23,P171,Kitchen,Toaster,1,81.25,Credit Card,Returned,CARD
+1042,U144,2025-04-14,P191,Kitchen,Microwave,1,58.35,Credit Card,Cancelled,CARD
+1044,U146,2025-04-27,P553,Fashion,Jacket,1,95.74,Debit Card,Returned,CARD
+1047,U035,2025-04-16,P862,Books,Spark for Dummies,2,40.27,Credit Card,Returned,CARD
+1048,U043,2025-04-17,P807,Books,Big Data Explained,2,24.86,Credit Card,Returned,CARD
+1054,U119,2025-04-17,P173,Kitchen,Knife Set,4,35.34,Debit Card,Cancelled,CARD
+1056,U127,2025-04-09,P390,Books,Big Data Explained,5,54.08,Credit Card,Returned,CARD
+1065,U025,2025-04-07,P235,Kitchen,Cutting Board,1,88.33,Debit Card,Returned,CARD
+1073,U015,2025-05-03,P201,Fashion,Sunglasses,5,62.2,Debit Card,Returned,CARD
+1078,U095,2025-04-29,P496,Books,Big Data Explained,3,10.59,Credit Card,Returned,CARD
+1080,U019,2025-04-24,P377,Kitchen,Toaster,4,29.61,Credit Card,Returned,CARD
+1081,U026,2025-04-21,P585,Fashion,Jacket,4,12.75,Credit Card,Returned,CARD
+1086,U115,2025-04-27,P248,Books,Spark for Dummies,1,94.75,Credit Card,Cancelled,CARD
+1095,U025,2025-05-03,P891,Kitchen,Cutting Board,2,34.47,Debit Card,Cancelled,CARD
+1101,U100,2025-04-15,P511,Fashion,Sunglasses,5,64.28,Credit Card,Returned,CARD
+1102,U130,2025-04-10,P131,Fashion,T-Shirt,5,70.46,Credit Card,Cancelled,CARD
+1107,U120,2025-04-29,P231,Kitchen,Microwave,5,56.9,Credit Card,Returned,CARD
+1109,U035,2025-04-26,P369,Books,Spark for Dummies,2,89.75,Debit Card,Returned,CARD
+1110,U078,2025-04-18,P233,Kitchen,Microwave,2,68.11,Debit Card,Cancelled,CARD
+1114,U041,2025-05-01,P582,Books,Clean Code,3,92.61,Credit Card,Cancelled,CARD
+1120,U135,2025-04-20,P710,Books,Data Engineering 101,2,17.02,Debit Card,Cancelled,CARD
+1127,U183,2025-04-09,P549,Home Decor,Photo Frame,4,33.58,Credit Card,Returned,CARD
+1134,U056,2025-05-02,P392,Kitchen,Blender,2,28.35,Credit Card,Returned,CARD
+1142,U061,2025-04-20,P387,Kitchen,Blender,1,62.61,Debit Card,Cancelled,CARD
+1145,U025,2025-04-04,P922,Books,Big Data Explained,5,33.62,Credit Card,Returned,CARD
+1154,U149,2025-04-14,P168,Fashion,Jacket,2,30.78,Credit Card,Returned,CARD
+1156,U159,2025-04-06,P999,Books,Spark for Dummies,2,13.86,Credit Card,Returned,CARD
+1165,U061,2025-04-19,P992,Kitchen,Knife Set,5,92.26,Credit Card,Cancelled,CARD
+1170,U063,2025-04-22,P766,Home Decor,Cushion Cover,5,76.79,Credit Card,Cancelled,CARD
+1175,U073,2025-04-28,P203,Fashion,Sneakers,4,71.6,Debit Card,Cancelled,CARD
+1176,U132,2025-04-11,P189,Electronics,Wireless Mouse,5,72.63,Debit Card,Cancelled,CARD
+1194,U079,2025-04-15,P686,Books,Clean Code,3,99.14,Credit Card,Cancelled,CARD
+1200,U048,2025-05-01,P840,Kitchen,Toaster,2,45.29,Credit Card,Returned,CARD
+1204,U195,2025-04-18,P913,Books,AI Revolution,5,71.97,Debit Card,Returned,CARD
+1205,U111,2025-04-08,P273,Fashion,Jeans,4,26.81,Debit Card,Returned,CARD
+1214,U099,2025-04-22,P750,Home Decor,Photo Frame,3,63.61,Debit Card,Returned,CARD
+1224,U010,2025-04-06,P748,Kitchen,Microwave,2,60.9,Debit Card,Returned,CARD
+1229,U086,2025-04-25,P933,Electronics,USB-C Cable,4,22.25,Debit Card,Returned,CARD
+1230,U024,2025-04-29,P342,Books,Clean Code,1,31.58,Credit Card,Returned,CARD
+1234,U031,2025-04-26,P479,Kitchen,Knife Set,2,53.68,Credit Card,Cancelled,CARD
+1243,U179,2025-05-01,P664,Kitchen,Cutting Board,3,53.72,Credit Card,Returned,CARD
+1252,U131,2025-04-04,P115,Kitchen,Cutting Board,4,37.87,Credit Card,Cancelled,CARD
+1253,U096,2025-04-28,P218,Kitchen,Cutting Board,4,10.03,Credit Card,Cancelled,CARD
+1254,U174,2025-04-23,P293,Home Decor,Photo Frame,4,69.34,Debit Card,Cancelled,CARD
+1256,U199,2025-04-28,P101,Books,Spark for Dummies,4,50.8,Credit Card,Cancelled,CARD
+1257,U020,2025-04-26,P507,Electronics,Power Bank,5,15.04,Credit Card,Cancelled,CARD
+1259,U146,2025-05-01,P939,Fashion,Jeans,1,53.69,Credit Card,Returned,CARD
+1262,U147,2025-04-23,P447,Electronics,Smartwatch,3,89.26,Debit Card,Returned,CARD
+1263,U011,2025-04-10,P830,Books,Clean Code,2,74.11,Credit Card,Cancelled,CARD
+1264,U185,2025-04-24,P781,Electronics,USB-C Cable,4,53.58,Debit Card,Cancelled,CARD
+1267,U076,2025-04-20,P203,Fashion,Sneakers,2,58.4,Debit Card,Cancelled,CARD
+1270,U136,2025-04-10,P271,Electronics,Wireless Mouse,1,66.37,Credit Card,Returned,CARD
+1272,U067,2025-04-18,P872,Kitchen,Blender,5,75.95,Credit Card,Cancelled,CARD
+1280,U142,2025-05-01,P576,Kitchen,Cutting Board,5,67.84,Credit Card,Returned,CARD
+1282,U130,2025-04-06,P141,Books,Spark for Dummies,5,81.78,Debit Card,Cancelled,CARD
+1285,U005,2025-04-19,P614,Home Decor,Cushion Cover,4,67.34,Credit Card,Returned,CARD
+1293,U049,2025-04-14,P803,Electronics,Smartwatch,2,98.13,Credit Card,Cancelled,CARD
+1296,U138,2025-05-03,P453,Kitchen,Microwave,2,71.28,Credit Card,Returned,CARD
+1304,U195,2025-04-06,P374,Electronics,USB-C Cable,1,67.65,Credit Card,Cancelled,CARD
+1307,U014,2025-04-29,P898,Electronics,Smartwatch,4,32.03,Debit Card,Cancelled,CARD
+1312,U059,2025-04-26,P953,Kitchen,Blender,3,76.3,Debit Card,Returned,CARD
+1330,U095,2025-05-03,P533,Fashion,Sneakers,5,34.27,Debit Card,Returned,CARD
+1333,U196,2025-04-27,P587,Fashion,Jeans,2,49.45,Credit Card,Returned,CARD
+1344,U148,2025-04-26,P545,Fashion,Jeans,5,27.79,Credit Card,Cancelled,CARD
+1346,U061,2025-04-28,P236,Kitchen,Toaster,4,18.07,Credit Card,Returned,CARD
+1349,U180,2025-04-10,P851,Fashion,Sneakers,1,45.94,Debit Card,Returned,CARD
+1351,U067,2025-04-15,P555,Kitchen,Cutting Board,3,17.88,Credit Card,Cancelled,CARD
+1354,U153,2025-04-17,P870,Electronics,USB-C Cable,4,87.64,Debit Card,Cancelled,CARD
+1359,U093,2025-04-18,P286,Electronics,USB-C Cable,3,30.28,Debit Card,Returned,CARD
+1360,U153,2025-04-21,P367,Kitchen,Blender,5,22.28,Credit Card,Returned,CARD
+1363,U177,2025-04-23,P580,Home Decor,Lamp,2,81.51,Credit Card,Returned,CARD
+1367,U014,2025-04-15,P935,Electronics,Wireless Mouse,3,18.43,Credit Card,Cancelled,CARD
+1371,U072,2025-04-23,P777,Books,Data Engineering 101,1,99,Credit Card,Returned,CARD
+1374,U161,2025-04-07,P552,Kitchen,Blender,5,31.01,Debit Card,Cancelled,CARD
+1382,U060,2025-05-01,P341,Books,Clean Code,1,84.74,Credit Card,Returned,CARD
+1385,U083,2025-04-10,P302,Fashion,Sunglasses,2,81.8,Debit Card,Returned,CARD
+1388,U180,2025-04-19,P632,Home Decor,Lamp,4,70.81,Debit Card,Returned,CARD
+1394,U026,2025-04-10,P479,Home Decor,Lamp,3,98.63,Debit Card,Cancelled,CARD
+1396,U004,2025-04-27,P118,Home Decor,Cushion Cover,5,85.49,Credit Card,Cancelled,CARD
+1399,U006,2025-04-06,P995,Kitchen,Microwave,3,25.55,Credit Card,Returned,CARD
+1401,U050,2025-04-10,P301,Home Decor,Photo Frame,5,98.92,Debit Card,Returned,CARD
+1403,U180,2025-04-16,P806,Home Decor,Wall Art,5,39.46,Debit Card,Cancelled,CARD
+1405,U136,2025-04-27,P713,Kitchen,Blender,5,51.86,Credit Card,Returned,CARD
+1409,U160,2025-04-04,P261,Kitchen,Blender,1,66.68,Debit Card,Cancelled,CARD
+1411,U009,2025-04-15,P737,Home Decor,Lamp,4,51.77,Debit Card,Cancelled,CARD
+1414,U064,2025-04-16,P414,Electronics,Bluetooth Headphones,5,75.31,Credit Card,Cancelled,CARD
+1417,U160,2025-04-15,P409,Electronics,Smartwatch,3,59.02,Credit Card,Cancelled,CARD
+1419,U163,2025-04-07,P940,Kitchen,Toaster,1,25.73,Credit Card,Returned,CARD
+1420,U166,2025-04-14,P268,Electronics,Smartwatch,3,47.32,Debit Card,Returned,CARD
+1421,U152,2025-04-26,P480,Home Decor,Lamp,5,62.79,Credit Card,Returned,CARD
+1422,U069,2025-04-04,P188,Fashion,T-Shirt,4,78.06,Debit Card,Returned,CARD
+1425,U167,2025-04-28,P538,Kitchen,Knife Set,2,38.86,Credit Card,Cancelled,CARD
+1429,U176,2025-04-22,P918,Kitchen,Toaster,5,52.1,Credit Card,Returned,CARD
+1432,U012,2025-04-29,P915,Books,AI Revolution,1,55.14,Credit Card,Cancelled,CARD
+1434,U014,2025-04-10,P597,Fashion,Sunglasses,3,72.8,Debit Card,Cancelled,CARD
+1435,U083,2025-04-04,P275,Kitchen,Cutting Board,5,22.46,Debit Card,Returned,CARD
+1437,U041,2025-04-07,P837,Fashion,Jacket,4,33.86,Credit Card,Cancelled,CARD
+1440,U021,2025-04-14,P944,Electronics,Smartwatch,4,95.21,Debit Card,Returned,CARD
+1460,U121,2025-05-03,P597,Kitchen,Toaster,2,88.96,Debit Card,Returned,CARD
+1470,U082,2025-04-28,P446,Books,Spark for Dummies,4,75.53,Debit Card,Cancelled,CARD
+1487,U187,2025-04-06,P983,Books,Data Engineering 101,4,83.52,Credit Card,Returned,CARD
+1488,U199,2025-04-11,P491,Home Decor,Cushion Cover,3,67.39,Debit Card,Returned,CARD
+1491,U090,2025-04-13,P517,Electronics,USB-C Cable,3,52.9,Credit Card,Returned,CARD
+1492,U145,2025-04-12,P149,Electronics,Smartwatch,2,71.6,Credit Card,Cancelled,CARD
+1493,U170,2025-04-26,P166,Books,Spark for Dummies,3,80.16,Debit Card,Cancelled,CARD
+1501,U099,2025-04-08,P856,Electronics,Smartwatch,1,24.95,Credit Card,Cancelled,CARD
+1510,U025,2025-04-26,P670,Kitchen,Knife Set,2,43.19,Credit Card,Returned,CARD
+1512,U023,2025-04-22,P120,Kitchen,Toaster,4,64.87,Credit Card,Returned,CARD
+1515,U137,2025-04-09,P426,Electronics,Smartwatch,2,30.27,Debit Card,Cancelled,CARD
+1518,U069,2025-04-21,P790,Home Decor,Wall Clock,4,76.74,Credit Card,Cancelled,CARD
+1521,U188,2025-04-27,P409,Fashion,Sunglasses,4,87.03,Debit Card,Returned,CARD
+1523,U167,2025-05-03,P766,Kitchen,Microwave,3,14.96,Credit Card,Cancelled,CARD
+1524,U194,2025-04-04,P493,Home Decor,Photo Frame,1,46.99,Credit Card,Returned,CARD
+1527,U099,2025-04-20,P843,Kitchen,Blender,3,77.02,Credit Card,Cancelled,CARD
+1528,U090,2025-04-18,P256,Electronics,USB-C Cable,2,32.27,Credit Card,Returned,CARD
+1545,U007,2025-04-06,P582,Kitchen,Knife Set,5,67.94,Credit Card,Cancelled,CARD
+1547,U067,2025-04-25,P121,Kitchen,Toaster,1,88.34,Credit Card,Cancelled,CARD
+1549,U189,2025-04-22,P131,Fashion,Jeans,3,61.81,Debit Card,Returned,CARD
+1550,U160,2025-05-01,P264,Books,AI Revolution,5,66.53,Credit Card,Returned,CARD
+1554,U053,2025-04-23,P877,Books,Data Engineering 101,1,48.95,Debit Card,Returned,CARD
+1560,U115,2025-04-06,P859,Home Decor,Wall Clock,3,31.24,Credit Card,Cancelled,CARD
+1561,U095,2025-04-13,P153,Fashion,Jacket,4,40.28,Credit Card,Returned,CARD
+1565,U009,2025-04-18,P525,Fashion,Sneakers,2,13.35,Credit Card,Cancelled,CARD
+1568,U048,2025-04-17,P192,Fashion,T-Shirt,3,68.65,Debit Card,Cancelled,CARD
+1576,U192,2025-04-21,P536,Home Decor,Lamp,3,60.21,Debit Card,Cancelled,CARD
+1577,U085,2025-04-14,P687,Fashion,Sunglasses,3,66.91,Debit Card,Cancelled,CARD
+1581,U062,2025-04-27,P568,Fashion,Jacket,2,32.99,Credit Card,Cancelled,CARD
+1583,U090,2025-04-24,P271,Home Decor,Wall Clock,4,44.79,Debit Card,Returned,CARD
+1590,U092,2025-04-26,P693,Fashion,T-Shirt,1,39.68,Debit Card,Returned,CARD
+1599,U169,2025-04-06,P861,Electronics,Power Bank,3,55.64,Credit Card,Returned,CARD
+1606,U144,2025-04-06,P189,Fashion,Jeans,1,63.06,Credit Card,Cancelled,CARD
+1607,U060,2025-04-05,P786,Home Decor,Wall Art,5,70.26,Debit Card,Cancelled,CARD
+1612,U177,2025-04-21,P750,Books,Spark for Dummies,2,30.97,Debit Card,Cancelled,CARD
+1613,U093,2025-04-25,P695,Electronics,USB-C Cable,1,61.67,Debit Card,Returned,CARD
+1619,U021,2025-04-20,P274,Books,AI Revolution,1,17.98,Credit Card,Returned,CARD
+1620,U194,2025-04-23,P687,Fashion,T-Shirt,4,76.71,Credit Card,Returned,CARD
+1627,U036,2025-04-15,P409,Electronics,Wireless Mouse,2,46.96,Debit Card,Returned,CARD
+1636,U168,2025-04-14,P770,Fashion,Jacket,5,68.63,Credit Card,Cancelled,CARD
+1641,U141,2025-04-30,P855,Electronics,Smartwatch,1,93.99,Debit Card,Returned,CARD
+1646,U034,2025-04-08,P438,Fashion,T-Shirt,1,19.2,Debit Card,Returned,CARD
+1647,U154,2025-04-18,P661,Fashion,Jacket,3,53.55,Credit Card,Returned,CARD
+1649,U115,2025-04-27,P895,Home Decor,Wall Art,2,99.5,Debit Card,Returned,CARD
+1651,U194,2025-04-25,P914,Home Decor,Wall Art,2,70.66,Debit Card,Returned,CARD
+1652,U187,2025-04-05,P149,Electronics,Smartwatch,4,31.69,Debit Card,Returned,CARD
+1662,U020,2025-04-15,P359,Electronics,Power Bank,2,20.43,Credit Card,Returned,CARD
+1668,U018,2025-04-06,P448,Electronics,Wireless Mouse,4,25.13,Debit Card,Cancelled,CARD
+1669,U105,2025-04-23,P479,Electronics,USB-C Cable,3,56.42,Credit Card,Returned,CARD
+1673,U167,2025-04-19,P715,Electronics,USB-C Cable,2,12.79,Debit Card,Returned,CARD
+1676,U039,2025-05-03,P831,Fashion,Sunglasses,4,18.52,Credit Card,Cancelled,CARD
+1682,U166,2025-04-27,P103,Home Decor,Wall Art,2,10.63,Credit Card,Returned,CARD
+1685,U001,2025-04-08,P675,Electronics,Bluetooth Headphones,2,84.77,Debit Card,Returned,CARD
+1686,U195,2025-04-09,P277,Fashion,Sunglasses,2,45.01,Credit Card,Returned,CARD
+1696,U112,2025-04-10,P784,Books,AI Revolution,5,71.68,Debit Card,Cancelled,CARD
+1702,U114,2025-04-09,P858,Electronics,Bluetooth Headphones,1,61.4,Credit Card,Returned,CARD
+1703,U087,2025-04-04,P696,Electronics,USB-C Cable,5,26.9,Credit Card,Cancelled,CARD
+1705,U039,2025-04-23,P345,Books,Data Engineering 101,5,64.98,Credit Card,Cancelled,CARD
+1706,U079,2025-04-16,P805,Fashion,Jeans,2,75.95,Debit Card,Cancelled,CARD
+1708,U039,2025-04-26,P445,Fashion,Sneakers,5,24.28,Credit Card,Cancelled,CARD
+1711,U003,2025-04-29,P628,Home Decor,Lamp,4,76.85,Debit Card,Cancelled,CARD
+1715,U030,2025-04-04,P799,Fashion,T-Shirt,2,61.33,Credit Card,Cancelled,CARD
+1718,U106,2025-04-19,P641,Electronics,Bluetooth Headphones,4,84.27,Credit Card,Cancelled,CARD
+1719,U036,2025-04-07,P571,Electronics,Power Bank,5,50.98,Credit Card,Returned,CARD
+1723,U020,2025-05-01,P398,Electronics,Bluetooth Headphones,4,32.05,Credit Card,Cancelled,CARD
+1735,U163,2025-04-30,P870,Home Decor,Wall Clock,1,74.3,Credit Card,Returned,CARD
+1744,U092,2025-04-08,P562,Books,Data Engineering 101,1,81.02,Credit Card,Returned,CARD
+1745,U050,2025-04-26,P892,Electronics,Power Bank,1,77.94,Credit Card,Returned,CARD
+1749,U083,2025-04-18,P144,Home Decor,Cushion Cover,1,95.31,Credit Card,Cancelled,CARD
+1751,U116,2025-04-11,P410,Home Decor,Wall Clock,1,54.04,Debit Card,Cancelled,CARD
+1758,U190,2025-04-15,P744,Books,Big Data Explained,3,35.97,Debit Card,Returned,CARD
+1763,U092,2025-04-30,P347,Fashion,Sneakers,2,70.83,Credit Card,Returned,CARD
+1768,U100,2025-05-02,P880,Home Decor,Wall Clock,5,72.35,Credit Card,Cancelled,CARD
+1770,U140,2025-04-07,P751,Kitchen,Blender,4,90.73,Debit Card,Returned,CARD
+1771,U074,2025-04-07,P847,Books,Data Engineering 101,1,94.96,Debit Card,Cancelled,CARD
+1776,U194,2025-04-11,P939,Home Decor,Cushion Cover,5,31.23,Credit Card,Returned,CARD
+1777,U149,2025-04-05,P465,Books,Big Data Explained,3,84.73,Debit Card,Returned,CARD
+1782,U023,2025-04-15,P928,Kitchen,Toaster,2,88.47,Debit Card,Returned,CARD
+1786,U060,2025-04-11,P701,Kitchen,Knife Set,2,93.46,Credit Card,Cancelled,CARD
+1787,U046,2025-05-03,P279,Electronics,Bluetooth Headphones,5,57.7,Credit Card,Cancelled,CARD
+1792,U057,2025-04-26,P181,Fashion,Sunglasses,2,62.01,Debit Card,Cancelled,CARD
+1803,U109,2025-04-21,P310,Electronics,Smartwatch,3,41.08,Credit Card,Returned,CARD
+1805,U181,2025-04-07,P908,Home Decor,Cushion Cover,5,33.49,Credit Card,Cancelled,CARD
+1806,U171,2025-04-15,P962,Fashion,Sunglasses,1,62.7,Debit Card,Returned,CARD
+1815,U067,2025-04-17,P253,Kitchen,Cutting Board,4,47.78,Credit Card,Cancelled,CARD
+1823,U076,2025-05-01,P814,Books,Big Data Explained,4,81.33,Credit Card,Cancelled,CARD
+1826,U107,2025-04-06,P224,Electronics,Wireless Mouse,4,99.22,Debit Card,Cancelled,CARD
+1829,U145,2025-04-26,P648,Home Decor,Cushion Cover,3,92.24,Debit Card,Cancelled,CARD
+1838,U117,2025-05-02,P446,Home Decor,Cushion Cover,4,79.73,Credit Card,Returned,CARD
+1845,U179,2025-04-21,P511,Home Decor,Photo Frame,3,92.89,Debit Card,Cancelled,CARD
+1848,U132,2025-04-18,P800,Home Decor,Wall Clock,1,51.35,Debit Card,Cancelled,CARD
+1860,U027,2025-04-22,P179,Home Decor,Photo Frame,1,26.78,Debit Card,Returned,CARD
+1862,U177,2025-04-22,P679,Books,Clean Code,4,67.33,Credit Card,Cancelled,CARD
+1870,U045,2025-04-13,P166,Books,Clean Code,2,55.65,Credit Card,Returned,CARD
+1874,U081,2025-04-12,P727,Books,AI Revolution,2,17.27,Credit Card,Returned,CARD
+1876,U073,2025-05-02,P539,Electronics,Power Bank,5,46.81,Debit Card,Returned,CARD
+1877,U010,2025-04-14,P626,Home Decor,Cushion Cover,3,17.91,Debit Card,Cancelled,CARD
+1879,U022,2025-04-21,P195,Electronics,Wireless Mouse,3,34.52,Debit Card,Returned,CARD
+1882,U191,2025-04-08,P542,Books,AI Revolution,3,49.02,Credit Card,Cancelled,CARD
+1883,U012,2025-04-29,P649,Books,Big Data Explained,1,20.3,Debit Card,Returned,CARD
+1885,U021,2025-04-06,P972,Fashion,Jacket,4,16.23,Debit Card,Returned,CARD
+1888,U181,2025-04-22,P679,Home Decor,Wall Clock,4,88.86,Debit Card,Cancelled,CARD
+1904,U160,2025-05-03,P848,Kitchen,Toaster,5,17.51,Credit Card,Cancelled,CARD
+1906,U057,2025-04-17,P414,Books,Spark for Dummies,3,52.93,Credit Card,Cancelled,CARD
+1909,U025,2025-04-23,P868,Books,Big Data Explained,1,38.45,Debit Card,Cancelled,CARD
+1911,U047,2025-04-24,P655,Home Decor,Cushion Cover,2,24.55,Debit Card,Returned,CARD
+1918,U066,2025-04-05,P675,Home Decor,Wall Clock,2,78.59,Credit Card,Cancelled,CARD
+1919,U075,2025-05-02,P730,Home Decor,Photo Frame,5,79.87,Debit Card,Returned,CARD
+1921,U081,2025-04-09,P559,Kitchen,Blender,3,13.33,Debit Card,Cancelled,CARD
+1923,U067,2025-04-19,P616,Home Decor,Wall Art,3,77.07,Debit Card,Cancelled,CARD
+1926,U040,2025-04-05,P931,Kitchen,Cutting Board,4,90.09,Credit Card,Cancelled,CARD
+1939,U007,2025-04-11,P301,Books,Big Data Explained,2,49.44,Credit Card,Returned,CARD
+1942,U004,2025-04-10,P202,Home Decor,Wall Art,1,29.94,Debit Card,Returned,CARD
+1945,U047,2025-04-19,P383,Books,Clean Code,1,14.91,Debit Card,Cancelled,CARD
+1948,U127,2025-04-04,P665,Electronics,Smartwatch,5,93.14,Debit Card,Returned,CARD
+1949,U107,2025-04-24,P336,Electronics,USB-C Cable,1,78.68,Credit Card,Returned,CARD
+1952,U160,2025-05-02,P993,Kitchen,Cutting Board,3,53.61,Debit Card,Returned,CARD
+1957,U185,2025-04-15,P560,Fashion,Jacket,5,99.8,Credit Card,Returned,CARD
+1962,U092,2025-04-12,P432,Electronics,Bluetooth Headphones,1,64.11,Debit Card,Cancelled,CARD
+1965,U139,2025-04-06,P421,Electronics,Wireless Mouse,5,92.75,Credit Card,Cancelled,CARD
+1967,U107,2025-04-08,P643,Kitchen,Cutting Board,5,10.46,Credit Card,Returned,CARD
+1969,U135,2025-05-01,P274,Fashion,Jacket,5,51.12,Credit Card,Cancelled,CARD
+1972,U044,2025-04-10,P406,Home Decor,Lamp,1,35.33,Debit Card,Returned,CARD
+1973,U180,2025-04-28,P620,Electronics,Power Bank,1,34.92,Debit Card,Cancelled,CARD
+1975,U012,2025-04-23,P824,Fashion,Sneakers,3,16.31,Debit Card,Cancelled,CARD
+1976,U194,2025-04-28,P916,Electronics,USB-C Cable,2,48.83,Credit Card,Cancelled,CARD
+1977,U178,2025-04-10,P541,Electronics,Smartwatch,2,37.42,Credit Card,Cancelled,CARD
+1982,U163,2025-05-01,P314,Books,Data Engineering 101,5,26.71,Credit Card,Cancelled,CARD
+1984,U182,2025-04-19,P820,Fashion,T-Shirt,4,58.97,Credit Card,Cancelled,CARD
+1988,U100,2025-04-23,P649,Books,Big Data Explained,1,45.21,Debit Card,Returned,CARD
+2000,U010,2025-04-18,P870,Kitchen,Toaster,3,84.03,Debit Card,Cancelled,CARD
