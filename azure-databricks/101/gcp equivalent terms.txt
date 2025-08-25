@@ -1,0 +1,34 @@
+resource group = project
+azure databricks = dataproc + bigquery + dataflow
+storage account ≈ project (sub for gcs) + GCS bucket
+container = gcs bucket
+service principal = service account
+	app_id = username of SA
+	tenant_id = path of SA
+	secret = password
+key vault = secret manager + cloud KMS + Certificate Manager
+
+
+1e0f6cf8-d2a3-4d85-908e-6ef6f66f91ba
+
+97e3b6d2-71bb-4260-a56b-90f2fb967a5c
+
+O6i8Q~P1pu1wygw-1b6FINbgtlMZdY7hnSWH6bBO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+special tips
+- Enable hierarchical namespace = data lake (blob storage cannot have folders)
