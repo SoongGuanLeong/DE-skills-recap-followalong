@@ -1,6 +1,11 @@
 **Source**: https://youtu.be/4uKRzDf0zIc?si=muu7IGbi3VB7-1Bw
 This project highlighted the seamless integration of Azure Databricks’ diverse capabilities.
 
+
+![workflow](pipeline.png)
+
+
+
 ## Topics covered:
 - Project Architecture
 - Azure & Databricks Setup
