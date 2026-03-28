@@ -144,6 +144,7 @@ WHERE event_time >= '2026-01-01';
 ### Enable multi-threaded concurrent writes
 - Iceberg supports concurrent writers automatically.
 - Best practice: increase Spark parallelism.
+
 $$
 \text{Target Partition Size} \approx 64\text{MB to }512\text{MB}
 $$
